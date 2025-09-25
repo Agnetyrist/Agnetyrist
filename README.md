@@ -1,6 +1,6 @@
-# 👋 Hi, I’m AskenLyte
+# 👋 Hi, I’m Agnetyrist
 
-![Profile Views](https://komarev.com/ghpvc/?username=AskenLyte&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Agnetyrist&color=blue)
 
 I’m a passionate **software developer** focused on **high-performance applications, game systems, and automation tools**.  
 I combine logic, creativity, and precision to build projects that are both functional and optimized.
@@ -48,7 +48,7 @@ I combine logic, creativity, and precision to build projects that are both funct
 ---
 
 ## 🌐 Social & Contact
-[![Discord](https://img.shields.io/badge/Discord-AskenLyte-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/AskenLyte)  
+[![Discord](https://img.shields.io/badge/Discord-Agnetyrist-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/Agnetyrist)  
 [![Telegram](https://img.shields.io/badge/Telegram-@Depresiked-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/Depresiked)  
 
 ---
