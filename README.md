@@ -2,7 +2,7 @@
   <img src="https://github.com/0xHaskar/0xHaskar/raw/main/banner.gif" alt="banner" width="100%">
 </p>
 
-# 👋 Hi, I’m AskenLyte
+# 👋 Hi, I’m Agnetyrist
 <p align="center">
   <b>Software Developer | Game Systems | Automation | High-Performance Apps</b>
 </p>
@@ -56,8 +56,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://discord.com/users/AskenLyte">
-    <img src="https://img.shields.io/badge/Discord-AskenLyte-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/Agnetyrist">
+    <img src="https://img.shields.io/badge/Discord-Agnetyrist-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://t.me/Depresiked">
     <img src="https://img.shields.io/badge/Telegram-@Depresiked-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -83,5 +83,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskenLyte&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnetyrist&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
